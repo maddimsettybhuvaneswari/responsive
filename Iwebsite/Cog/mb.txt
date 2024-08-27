@@ -1,0 +1,20 @@
+ task-3___note:
+I commented a bockground style in inline css why because of , when I give a 
+different colours style in media queries , it doesn't take total body , so I gave a 
+baground color in external css file.
+
+task-6____note:
+Register form
+I used a icons in register form i.e., correct Icons{check_circle} and Wrong icons{Error}, 
+these icons are taken in Google fonts When we used these icons we have internet to 
+access and use these icons
+
+task-7___note:
+Bootstrap
+I didn't download a bootstrap, I used the code in online like I attach a css links and 
+Java script links and use the code in google, we have internet to acces it.
+I used a bootstrap version 4.
+when we apply css framework bootstrap it have thousand line of codes it have all html
+styles tags so these styles are applied to all the elements as we mention in the index.html
+file, so I customised a some styles in my own css files style.css and add some styles 
+to html file.

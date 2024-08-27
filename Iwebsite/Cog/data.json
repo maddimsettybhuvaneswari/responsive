@@ -1,0 +1,39 @@
+[
+    {
+        "Name":"MILK",
+        "Description" :"It is primarily composed of water (about 87%), along with carbohydrates (mainly lactose), fats, proteins (casein and whey proteins), vitamins, and minerals (such as calcium and phosphorus). The nutrient composition of milk can vary depending on the species, diet, and other factors. Cow's and buffaloes milk is the most commonly consumed type, but milk from goats, sheep, camels, and other animals is also popular in various cultures.",
+        "Uses":" Milk is an excellent source of vitamins and minerals, particularly calcium. In some traditions, milk plays a role in rituals, celebrations, and culinary heritage, showcasing its cultural significance and versatility across different cuisines."   
+    },
+    {
+        "Name":"Curd",
+        "Description":"A fermented dairy product made by adding live cultures to milk is a semi-solid dairy product made from milk that has been coagulated, or curdled, using lactic acid or other bacterial cultures. The process of curdling can also involve adding an edible acidic substance, like vinegar or lemon juice",
+        "Uses":"Used as a base for smoothies, in salad dressings, marinating meats, or enjoyed as a stand-alone snack. It's known for its probiotic properties, aiding digestion and gut health."
+
+    },
+    {
+        "Name":"Butter Milk",
+        "Description":"A diluted version of yogurt, often seasoned with spices.is a fermented dairy product that's low in fat and calories, with a creamy texture and tangy flavor. It's similar to skim milk in composition, but contains more phospholipids..",
+        "Uses":"Commonly consumed as a refreshing drink, it can also be used in cooking to make dishes like kadhi (a type of curry) or in pancakes and fritters for added moisture and flavor."
+    },
+    {
+        "Name":"Butter",
+        "Description":"Butter is primarily composed of fat, water, and milk solids. It usually contains about 80% fat, 16-18% water, and 1-2% milk solids (proteins and lactose).We have different types of Butter, there are unsalted Butter and Salted Butter and culture Butter",
+        "Uses":"Cooking and Baking: Butter is a fundamental ingredient in many recipes, including cookies, cakes, pastries, and sauces. It contributes to flavor, texture, and moisture.Adds richness and depth to dishes such as mashed potatoes, risottos, and other creamy preparations."
+    },
+    {
+        "Name":"Ghee",
+        "Description":"Clarified butter made by simmering butter until the water evaporates and the milk solids settle. is a semi-liquid form of butter without water content, lactose, and other milk solids. It is prepared by gently heating butter until it becomes a clear golden liquid. It is light & pure, and does not become rancid for a long time. ",
+        "Uses":"A staple in Indian cooking, ghee is used for frying, in tempering spices, and as a rich, flavorful addition to various dishes. It is celebrated for its high smoke point and health benefits, including anti-inflammatory properties."
+    },
+    {
+        "Name":"Colostrum Milk",
+        "Description":"Colostrum is the first form of milk produced by mammals immediately following the birth of their young. It is a thick, yellowish fluid that is different from regular milk. Colostrum is rich in nutrients, antibodies, and bioactive compounds, making it a vital source of nutrition for newborns in the first few days of life.",
+        "Uses":"The primary use of colostrum is to provide essential nutrients and immune protection to newborns, particularly in mammals like humans, cows, and other species.Some research indicates colostrum may have potential in supporting conditions like respiratory infections, allergies, and skin conditions."
+    },
+    {
+        "Name":"Paneer",
+        "Description":"paneer is a fresh cheese made by adding a food-based acid to curdled milk. The resulting whey is strained and pressed in muslin cheesecloth, creating a firm block of delicious cheese.Paneer does not require any fermenting or curing.",
+        "Uses":"Paneer is a versatile ingredient in Indian cuisine, used in dishes like paneer butter masala, palak paneer, or grilled as skewers. It is rich in protein and can be used in salads, sandwiches, and wraps."
+    }
+]
+    
